@@ -1,0 +1,44 @@
+.card-hai {
+	border: 1px solid #3cc47a;
+	display: flex;
+	flex-direction: column;
+	margin: auto;
+	padding: 10px;
+	color: #3cc47a;
+	border-radius: 8px;
+	font-family: 'Quicksand', sans-serif;
+	word-wrap: break-word;
+}
+.username {
+	font-weight: bold;
+
+}
+.timestamp {
+	font-style: italic;
+	font-weight: lighter;
+	font-size: 12px;
+}
+.tweet {
+
+}
+.status {
+
+}
+.card-hai-1 {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 2px;
+
+}
+.card-hai-2 {
+	padding: 2px;
+
+}
+.card-hai-3 {
+	padding: 2px;
+
+}
+a {
+	color: #3cc47a;
+}
